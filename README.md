@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raminkhalouie&show_icons=true&locale=en" alt="raminkhalouie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raminkhalouie&" alt="raminkhalouie" /></p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
