@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramin Khalouie</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!; Ramin Khalouie+Front+end+developer !; cheak+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+wellcome+To my Github!;  Ramin Khalouie+Front+end+developer !; cheak+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <h3 align="center">A passionate frontend developer</h3>
 
