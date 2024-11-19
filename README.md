@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">
   <a href="https://github.com/RaminKhalouie">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;'.+Im+Ramin+Khalouie...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=a019fa&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;'+I'm+Ramin+Khalouie...;&nbsp;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=a019fa&background=FFFFFF00">
   </a>
 </h1>
 
