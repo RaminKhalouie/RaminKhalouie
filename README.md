@@ -8,7 +8,7 @@
 </h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Front End Topics<br>⚡ All of my projects are available at [GITHUB](https://github.com/RaminKhalouie)<br>🤝 How to reach me **ra.khalouie@gmail.com**
+🌱 I'm Ramin Khalouie<br>👯 A passionate Front End Developer<br>🔭 I’m currently working on Front End Topics<br>⚡ All of my projects are available at [GITHUB](https://github.com/RaminKhalouie)<br>🤝 How to reach me **ra.khalouie@gmail.com**
 
 
 ## 🌐 Socials:
